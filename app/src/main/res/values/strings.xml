@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Musica</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fragment_one">Fragment_one</string>
+    <string name="title_activity_fragment_two">Fragment_two</string>
+    <string name="title_activity_fragment_three">Fragment_three</string>
+</resources>
